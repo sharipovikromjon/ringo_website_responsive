@@ -6,3 +6,4 @@ about
 process
 contact
 process-order
+new-products
