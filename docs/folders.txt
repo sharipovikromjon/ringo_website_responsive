@@ -8,3 +8,4 @@ contact
 process-order
 new-products
 partnership
+partners
